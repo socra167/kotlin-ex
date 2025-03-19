@@ -9,5 +9,7 @@ public class Exam2 {
 		} else {
 			System.out.println("Odd Number");
 		}
+
+		String str = number % 2 == 0 ? "even" : "odd"; // 3항 연산자로도 표현 가능
 	}
 }

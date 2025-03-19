@@ -15,11 +15,13 @@ fun main() {
         number % 2 == 0 -> print("2의 배수")
         number % 3 == 0 -> print("3의 배수")
         number % 5 == 0 -> print("5의 배수")
+        else -> print("no match")
     }
 
     when (number) {
         1 -> print("1")
         2 -> print("2")
         3 -> print("3")
+        else -> print("no match")
     }
 }

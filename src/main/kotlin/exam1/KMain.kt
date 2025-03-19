@@ -1,3 +1,5 @@
+package exam1
+
 fun main() {
     val number = 10
     var message = "Hello, Kotlin!"

@@ -1,3 +1,5 @@
+package exam1;
+
 public class JMain {
 	public static void main(String[] args) {
 		final int number = 10; // 정수형 변수 선언

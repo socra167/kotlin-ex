@@ -1,4 +1,7 @@
 fun main() {
-    var num1: Int = 20 // int num1 = 20;
-    val num2: Int = 10 // final int num2 = 10;
+    val number = 10
+    var message = "Hello, Kotlin!"
+
+    println("number = ${number}")
+    println("message = ${message}")
 }
